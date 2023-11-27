@@ -1,12 +1,8 @@
-String ("HolaMundo");
-console.WriteLine (String
-);
-[
-    {
-        "type": "chrome",
-        "request": "launch",
-        "name": "Launch Chrome against localhost",
-        "url": "http://localhost:8080",
-        "webRoot": "${workspaceFolder}"
-    }
-]
+<html>
+<head>
+    <title>mi primer proyecto</title>
+</head>
+<body>
+    <h1>mi primer proyecto</h1>
+</body>
+</html>
